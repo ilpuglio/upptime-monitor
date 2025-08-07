@@ -3,19 +3,35 @@ owner: ilpuglio # Your GitHub organization or username, where this repository li
 repo: upptime-monitor # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Gruppo A2A 
+    url: https://gruppoa2a.it
+  - name: Amsa 
+    url: https://amsa.it
+  - name: Amsa tradotto
+    url: https://yourlanguage.amsa.it
+  - name: Aprica
+    url: https://aprica.it
+  - name: Aprica tradotto
+    url: https://yourlanguage.apricaspa.it
+  - name: A2A Calore e Servizi 
+    url: https://a2acaloreservizi.it
+  - name: A2A Ciclo Idrico 
+    url: https://a2acicloidrico.it
+  - name: A2A Illuminazione Pubblica 
+    url: https://www.a2ailluminazionepubblica.eu
+  # - name: Google
+  #  url: https://www.google.com
+  # - name: Wikipedia
+  #  url: https://en.wikipedia.org
+  # - name: Hacker News
+  #  url: https://news.ycombinator.com
+  # - name: Test Broken Site
+  # url: https://thissitedoesnotexist.koj.co
+  # - name: IPv6 test
+  #  url: forwardemail.net
+  #  port: 80
+  #  check: "tcp-ping"
+  #  ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
