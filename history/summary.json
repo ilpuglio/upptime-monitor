@@ -329,18 +329,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ldreti.it.ico",
     "slug": "ld-reti",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-07": 123
+      "2025-08-07": 134
     }
   },
   {
@@ -420,19 +420,19 @@
     "url": "https://www.brucasenzafrontiere.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.brucasenzafrontiere.it.ico",
     "slug": "bsd",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
-    "time": 347,
-    "timeDay": 347,
-    "timeWeek": 347,
-    "timeMonth": 347,
-    "timeYear": 347,
+    "status": "up",
+    "uptime": "84.31%",
+    "uptimeDay": "84.31%",
+    "uptimeWeek": "84.31%",
+    "uptimeMonth": "84.31%",
+    "uptimeYear": "84.31%",
+    "time": 337,
+    "timeDay": 337,
+    "timeWeek": 337,
+    "timeMonth": 337,
+    "timeYear": 337,
     "dailyMinutesDown": {
-      "2025-08-07": 0
+      "2025-08-07": 11
     }
   }
 ]
