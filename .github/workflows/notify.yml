@@ -1,0 +1,6 @@
+- name: Notify Telegram on incident
+  if: steps.incident.outputs.hasOpenIncident == 'true'
+    run: |
+      curl -s -X POST https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage \
+          -d chat_id=${{ secrets.TELEGRAM_CHAT_ID }} \
+          -d text="⚠️ Uno dei servizi monitorati da Upptime è down!"
