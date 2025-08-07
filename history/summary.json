@@ -340,7 +340,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-07": 63
+      "2025-08-07": 67
     }
   },
   {
@@ -420,17 +420,19 @@
     "url": "https://www.brucasenzafrontiere.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.brucasenzafrontiere.it.ico",
     "slug": "bsd",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 449,
-    "timeDay": 449,
-    "timeWeek": 449,
-    "timeMonth": 449,
-    "timeYear": 449,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "97.25%",
+    "uptimeDay": "97.25%",
+    "uptimeWeek": "97.25%",
+    "uptimeMonth": "97.25%",
+    "uptimeYear": "97.25%",
+    "time": 357,
+    "timeDay": 357,
+    "timeWeek": 357,
+    "timeMonth": 357,
+    "timeYear": 357,
+    "dailyMinutesDown": {
+      "2025-08-07": 0
+    }
   }
 ]
