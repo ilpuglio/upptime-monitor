@@ -4,19 +4,19 @@
     "url": "https://www.gruppoa2a.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.gruppoa2a.it.ico",
     "slug": "gruppo-a2-a",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 3306,
-    "timeDay": 3306,
-    "timeWeek": 3306,
-    "timeMonth": 3306,
-    "timeYear": 3306,
+    "status": "up",
+    "uptime": "98.88%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "98.88%",
+    "uptimeMonth": "98.88%",
+    "uptimeYear": "98.88%",
+    "time": 3365,
+    "timeDay": 3365,
+    "timeWeek": 3365,
+    "timeMonth": 3365,
+    "timeYear": 3365,
     "dailyMinutesDown": {
-      "2025-08-07": 1
+      "2025-08-07": 6
     }
   },
   {
@@ -342,7 +342,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-07": 526
+      "2025-08-07": 533
     }
   },
   {
