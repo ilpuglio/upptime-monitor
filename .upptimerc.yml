@@ -49,8 +49,6 @@ sites:
     url: https://virtualtour.gruppoa2a.it
   - name: Linea Gestioni
     url: https://www.linea-gestioni.it
-  - name: BSF
-    url: https://www.brucasenzafrontiere.it
   # - name: Google
   #  url: https://www.google.com
   # - name: Wikipedia
