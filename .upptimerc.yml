@@ -4,21 +4,51 @@ repo: upptime-monitor # The name of this repository
 
 sites:
   - name: Gruppo A2A 
-    url: https://gruppoa2a.it
+    url: https://www.gruppoa2a.it
   - name: Amsa 
-    url: https://amsa.it
+    url: https://www.amsa.it
   - name: Amsa tradotto
     url: https://yourlanguage.amsa.it
   - name: Aprica
-    url: https://apricaspa.it
+    url: https://www.apricaspa.it
   - name: Aprica tradotto
     url: https://yourlanguage.apricaspa.it
   - name: A2A Calore e Servizi 
-    url: https://a2acaloreservizi.it
+    url: https://www.a2acaloreservizi.it
   - name: A2A Ciclo Idrico 
-    url: https://a2acicloidrico.it
+    url: https://www.a2acicloidrico.it
   - name: A2A Illuminazione Pubblica 
     url: https://www.a2ailluminazionepubblica.eu
+  - name: A2A Airport Energy 
+    url: https://www.a2aairportenergy.it
+  - name: ASVT
+    url: https://www.asvt-spa.it
+  - name: Camuna Energia
+    url: https://www.camunaenergia.eu
+  - name: Duereti
+    url: https://www.duereti.it
+  - name: Unareti
+    url: https://www.unareti.it
+  - name: Gruppo AEB
+    url: https://www.aebonline.it
+  - name: Gelsia Ambiente
+    url: https://www.gelsiambiente.it
+  - name: H2 Valcamonica
+    url: https://www.h2valcamonica.eu
+  - name: A2A Innovation
+    url: https://innovation.gruppoa2a.it
+  - name: A2A Scuole
+    url: https://scuole.gruppoa2a.it
+  - name: LD Reti
+    url: https://www.ldreti.it
+  - name: Retipiù
+    url: https://www.retipiu.it
+  - name: Retragas
+    url: https://www.retragas.it
+  - name: A2A Virtual Tour
+    url: https://virtualtour.gruppoa2a.it
+  - name: Linea Gestioni
+    url: https://www.linea-gestioni.it
   # - name: Google
   #  url: https://www.google.com
   # - name: Wikipedia
