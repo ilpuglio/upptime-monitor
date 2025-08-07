@@ -15,7 +15,7 @@ jobs:
         id: incident
         uses: upptime/uptime-monitor@v1.40.1
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GH_PAT || github.token }}
 
       # FACOLTATIVO: stampa debug dei valori
       - name: Debug incident outputs
