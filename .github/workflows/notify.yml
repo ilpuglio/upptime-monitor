@@ -9,32 +9,31 @@ jobs:
   notify:
     name: Send Telegram notifications
     runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     steps:
       - name: Run Upptime Monitor
         id: incident
         uses: upptime/uptime-monitor@v1.40.1
 
-      # Debug: stampa i valori di output
-      - name: Print incident flags
+      - name: Print incident flags (debug)
         run: |
-          echo "Has Open Incident: ${{ steps.incident.outputs.hasOpenIncident }}"
-          echo "Has Closed Incident: ${{ steps.incident.outputs.hasClosedIncident }}"
+          echo "Open Incident: ${{ steps.incident.outputs.hasOpenIncident }}"
+          echo "Closed Incident: ${{ steps.incident.outputs.hasClosedIncident }}"
 
-      # Notifica incidente (DOWN)
       - name: Notify Telegram on incident
         if: steps.incident.outputs.hasOpenIncident == 'true'
         run: |
           curl -s -X POST https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage \
-            -d chat_id=${{ secrets.TELEGRAM_CHAT_ID }} \
-            -d text="⚠️ *Attenzione!* Uno o più servizi sono *offline*. Controlla il repository Upptime." \
+            -d chat_id="${{ secrets.TELEGRAM_CHAT_ID }}" \
+            -d text="⚠️ *Attenzione!* Uno o più servizi risultano *offline*." \
             -d parse_mode=Markdown
 
-      # Notifica ripristino (UP)
       - name: Notify Telegram on recovery
         if: steps.incident.outputs.hasClosedIncident == 'true'
         run: |
           curl -s -X POST https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage \
-            -d chat_id=${{ secrets.TELEGRAM_CHAT_ID }} \
-            -d text="✅ *Servizi online!* I servizi monitorati risultano ora *operativi*." \
+            -d chat_id="${{ secrets.TELEGRAM_CHAT_ID }}" \
+            -d text="✅ *Servizio ripristinato!* Tutti i servizi risultano nuovamente *online*." \
             -d parse_mode=Markdown
