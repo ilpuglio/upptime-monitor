@@ -76,19 +76,19 @@
     "url": "https://yourlanguage.apricaspa.it",
     "icon": "https://icons.duckduckgo.com/ip3/yourlanguage.apricaspa.it.ico",
     "slug": "aprica-tradotto",
-    "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
-    "time": 2099,
-    "timeDay": 2099,
-    "timeWeek": 2099,
-    "timeMonth": 2099,
-    "timeYear": 2099,
+    "status": "up",
+    "uptime": "99.25%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.25%",
+    "time": 2119,
+    "timeDay": 2119,
+    "timeWeek": 2119,
+    "timeMonth": 2119,
+    "timeYear": 2119,
     "dailyMinutesDown": {
-      "2025-08-07": 2
+      "2025-08-07": 6
     }
   },
   {
@@ -132,19 +132,19 @@
     "url": "https://www.a2ailluminazionepubblica.eu",
     "icon": "https://icons.duckduckgo.com/ip3/www.a2ailluminazionepubblica.eu.ico",
     "slug": "a2-a-illuminazione-pubblica",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 1784,
-    "timeDay": 1784,
-    "timeWeek": 1784,
-    "timeMonth": 1784,
-    "timeYear": 1784,
+    "status": "up",
+    "uptime": "99.44%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.44%",
+    "time": 1800,
+    "timeDay": 1800,
+    "timeWeek": 1800,
+    "timeMonth": 1800,
+    "timeYear": 1800,
     "dailyMinutesDown": {
-      "2025-08-07": 0
+      "2025-08-07": 4
     }
   },
   {
@@ -344,7 +344,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-07": 775
+      "2025-08-07": 780
     }
   },
   {
