@@ -4,18 +4,20 @@
     "url": "https://www.gruppoa2a.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.gruppoa2a.it.ico",
     "slug": "gruppo-a2-a",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 3306,
     "timeDay": 3306,
     "timeWeek": 3306,
     "timeMonth": 3306,
     "timeYear": 3306,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-07": 1
+    }
   },
   {
     "name": "Amsa",
@@ -329,18 +331,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ldreti.it.ico",
     "slug": "ld-reti",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-07": 134
+      "2025-08-07": 526
     }
   },
   {
@@ -421,18 +423,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.brucasenzafrontiere.it.ico",
     "slug": "bsd",
     "status": "up",
-    "uptime": "84.31%",
-    "uptimeDay": "84.31%",
-    "uptimeWeek": "84.31%",
-    "uptimeMonth": "84.31%",
-    "uptimeYear": "84.31%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 337,
     "timeDay": 337,
     "timeWeek": 337,
     "timeMonth": 337,
     "timeYear": 337,
-    "dailyMinutesDown": {
-      "2025-08-07": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
