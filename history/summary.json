@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3509,
-    "timeDay": 3509,
+    "timeDay": 3537,
     "timeWeek": 3509,
     "timeMonth": 3509,
     "timeYear": 3509,
@@ -137,7 +137,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1800,
-    "timeDay": 1800,
+    "timeDay": 1860,
     "timeWeek": 1800,
     "timeMonth": 1800,
     "timeYear": 1800,
@@ -238,36 +238,40 @@
     "url": "https://www.aebonline.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.aebonline.it.ico",
     "slug": "gruppo-aeb",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 3454,
     "timeDay": 3454,
     "timeWeek": 3454,
     "timeMonth": 3454,
     "timeYear": 3454,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-08": 0
+    }
   },
   {
     "name": "Gelsia Ambiente",
     "url": "https://www.gelsiambiente.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.gelsiambiente.it.ico",
     "slug": "gelsia-ambiente",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 2607,
     "timeDay": 2607,
     "timeWeek": 2607,
     "timeMonth": 2607,
     "timeYear": 2607,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-08": 0
+    }
   },
   {
     "name": "H2 Valcamonica",
@@ -340,7 +344,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-08": 147,
+      "2025-08-08": 570,
       "2025-08-07": 786
     }
   },
