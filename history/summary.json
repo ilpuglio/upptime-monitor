@@ -77,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/yourlanguage.apricaspa.it.ico",
     "slug": "aprica-tradotto",
     "status": "up",
-    "uptime": "99.25%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.25%",
-    "uptimeYear": "99.25%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2119,
     "timeDay": 2119,
     "timeWeek": 2119,
     "timeMonth": 2119,
     "timeYear": 2119,
-    "dailyMinutesDown": {
-      "2025-08-07": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "A2A Calore e Servizi",
@@ -133,19 +131,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.a2ailluminazionepubblica.eu.ico",
     "slug": "a2-a-illuminazione-pubblica",
     "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.44%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1800,
     "timeDay": 1800,
     "timeWeek": 1800,
     "timeMonth": 1800,
     "timeYear": 1800,
-    "dailyMinutesDown": {
-      "2025-08-07": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "A2A Airport Energy",
@@ -344,7 +340,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-07": 780
+      "2025-08-08": 147,
+      "2025-08-07": 786
     }
   },
   {
